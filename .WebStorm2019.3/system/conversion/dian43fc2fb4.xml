@@ -1,0 +1,13 @@
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="cucumber.js-run-configuration" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\墨尔本斌\Desktop\xiangmu\dian\.idea\vcs.xml" timestamp="1608302671023" />
+    <file path="C:\Users\墨尔本斌\Desktop\xiangmu\dian\.idea\modules.xml" timestamp="1608302671050" />
+    <file path="C:\Users\墨尔本斌\Desktop\xiangmu\dian\.idea\workspace.xml" timestamp="1609242609499" />
+    <file path="C:\Users\墨尔本斌\Desktop\xiangmu\dian\.idea\misc.xml" timestamp="1608302671037" />
+    <file path="C:\Users\墨尔本斌\Desktop\xiangmu\dian\.idea\dian.iml" timestamp="1608302670988" />
+  </project-files>
+</conversion>

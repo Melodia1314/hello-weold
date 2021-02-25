@@ -1,0 +1,27 @@
+1608302602253
+Stylus￿stub:org.jetbrains.plugins.stylus.psi.StylusFileElementType,29￿1608302602252
+Angular2Svg￿stub:org.angular2.lang.svg.Angular2SvgFileElementType,-332346230￿1608302602251
+ActionScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-332346232￿1608302602250
+CSS￿stub:com.intellij.psi.css.CssFileElementType,29￿1608302602249
+Vue.js￿stub:org.jetbrains.vuejs.lang.html.parser.VueFileElementType,-332346200￿1608302602248
+TypeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-332346232￿1608302602247
+ECMAScript 6￿stub:com.intellij.lang.javascript.types.JSFileElementType,-332346232￿1608302602246
+JavaScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-332346232￿1608302602245
+Less￿stub:org.jetbrains.plugins.less.psi.LessFileElementType,29￿1608302602244
+Markdown￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1608302602243
+CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-332346232￿1608302602242
+SCSS￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1608302602241
+Spacebars￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1608302602240
+XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,23￿1608302602239
+Jade￿stub:com.jetbrains.plugins.jade.psi.JadeFileElementType,-2019610870￿1608302602238
+Angular Metadata JSON￿binary stub builder:org.angular2.lang.metadata.MetadataJsonStubBuilder,20￿1608302602237
+HTML￿stub:com.intellij.psi.xml.HtmlFileElementType,-332346200￿1608302602236
+TypeScript JSX￿stub:com.intellij.lang.javascript.types.JSFileElementType,-332346232￿1608302602235
+Sass￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1608302602234
+JSX Harmony￿stub:com.intellij.lang.javascript.types.JSFileElementType,-332346232￿1608302602233
+Flow￿stub:com.intellij.lang.javascript.types.JSFileElementType,-332346232￿1608302602232
+JSP￿stub:com.intellij.lang.jsp.NewJspParserDefinition$1,-2019610866￿1608302602231
+Literate CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-332346232￿1608302602230
+Handlebars/Mustache￿stub:com.intellij.psi.tree.IStubFileElementType,-2019610870￿1608302602229
+EJS￿stub:com.jetbrains.lang.ejs.psi.EjsTokenTypes$EjsStubFileElementType,-2019610869￿1608302602228
+Angular2Html￿stub:org.angular2.lang.html.Angular2HtmlFileElementType,-332346201￿1608302602227

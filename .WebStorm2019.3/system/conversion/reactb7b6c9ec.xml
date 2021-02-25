@@ -1,0 +1,13 @@
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="cucumber.js-run-configuration" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\GitHub\react\.idea\workspace.xml" timestamp="1609324435616" />
+    <file path="D:\GitHub\react\.idea\react.iml" timestamp="1609159670542" />
+    <file path="D:\GitHub\react\.idea\misc.xml" timestamp="1609238218241" />
+    <file path="D:\GitHub\react\.idea\modules.xml" timestamp="1609159670624" />
+    <file path="D:\GitHub\react\.idea\vcs.xml" timestamp="1609159670549" />
+  </project-files>
+</conversion>
